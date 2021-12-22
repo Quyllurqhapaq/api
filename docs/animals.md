@@ -3,6 +3,8 @@ title: Animals API
 description: Animals API
 ---
 
+Get cute and wild animal pics and their facts.
+
 ## Arctic fox
 
 !!! example "**Arctic fox**"
@@ -34,7 +36,7 @@ description: Animals API
 !!! example "**Bear**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/blush](https://api.zarena.ga/v1/animal/blush) <br>
+    - **Endpoint:** [https://api.zarena.ga/v1/animal/bear](https://api.zarena.ga/v1/animal/bear) <br>
     - **Method:** GET <br>
 
     ### **Response**

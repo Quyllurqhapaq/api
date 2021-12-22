@@ -3,6 +3,8 @@ title: Tea API
 description: Tea API
 ---
 
+There's nothing as refreshing as a cup of tea.
+
 ## Tea
 
 !!! example "**Tea**"

@@ -3,7 +3,9 @@ title: Pokemon API
 description: Pokemon API
 ---
 
-## Search by id
+Get Pokemon info and their stats upto generation 8!
+
+## Search by ID
 
 !!! example "**Pokemon**"
 

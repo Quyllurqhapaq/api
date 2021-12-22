@@ -3,6 +3,8 @@ title: Action API
 description: Action API
 ---
 
+Interested in roleplaying? then this API is for you!
+
 ## Bite
 
 !!! example "**Bite**"
