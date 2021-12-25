@@ -1,5 +1,5 @@
 site_name: Zarena API Docs
-site_url: https://docs.zarena.ga/api
+site_url: https://docs.zarena.ga/api/
 site_description: Zarena API documentation.
 site_author: Bravestone
 copyright: Copyright &copy; 2021 <a href="https://labs.zarena.ga">Zarena Labs</a> | All Rights Reserved.
@@ -14,14 +14,15 @@ theme:
   custom_dir: overrides
   logo: assets/images/logo_88x88.png
   favicon: assets/images/favicon.ico
-  # icon:
-  #   repo: fontawesome-solid-download 
+  icon:
+    repo: fontawesome/solid/external-link-alt 
   language: en
   features:
     - content.code.annotate
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
     - navigation.instant
+    - navigation.sections
     - navigation.tabs
     - navigation.top
     - navigation.tracking
@@ -81,6 +82,12 @@ markdown_extensions:
 plugins:
   - search
   - macros
+  - minify:
+      minify_html: true
+      # minify_js: true
+      minify_css: true
+      css_files:
+          - assets/stylesheets/extra.css
 
 nav:
   - Home: index.md
@@ -91,7 +98,7 @@ nav:
   - Tea API: tea.md
 
 extra:
-  homepage: https://api.zarena.ga
+  homepage: https://api.zarena.ga/
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:admin@zarena.ga
