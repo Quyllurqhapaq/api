@@ -22,13 +22,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Blush
 
@@ -47,13 +41,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Cry
 
@@ -72,13 +60,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Cuddle
 
@@ -97,13 +79,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Dab
 
@@ -122,13 +98,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Dance
 
@@ -147,13 +117,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Highfive
 
@@ -172,13 +136,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Hug
 
@@ -197,13 +155,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Kiss
 
@@ -222,13 +174,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Nom
 
@@ -247,13 +193,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Pat
 
@@ -272,13 +212,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Pout
 
@@ -297,13 +231,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Slap
 
@@ -322,13 +250,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Smile
 
@@ -347,13 +269,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Stare
 
@@ -372,13 +288,7 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Tickle
 
@@ -397,10 +307,4 @@ Interested in roleplaying? then this API is for you!
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"

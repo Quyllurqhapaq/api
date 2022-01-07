@@ -23,13 +23,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Bear
 
@@ -49,13 +43,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Birb
 
@@ -75,13 +63,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Cat
 
@@ -101,13 +83,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Chipmunk
 
@@ -127,13 +103,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Dog
 
@@ -153,13 +123,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Fox
 
@@ -179,13 +143,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Giraffe
 
@@ -205,13 +163,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Kangaroo
 
@@ -231,13 +183,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Koala
 
@@ -257,13 +203,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Lion
 
@@ -283,13 +223,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Panda
 
@@ -309,13 +243,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Penguin
 
@@ -335,13 +263,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Polar bear
 
@@ -361,13 +283,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Rabbit
 
@@ -387,13 +303,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Raccoon
 
@@ -413,13 +323,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Red panda
 
@@ -439,13 +343,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Tiger
 
@@ -465,13 +363,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Wolf
 
@@ -491,13 +383,7 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"
 
 ## Zebra
 
@@ -517,10 +403,4 @@ Get cute and wild animal pics and their facts.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"

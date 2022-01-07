@@ -23,10 +23,4 @@ Get random coffee images.
         }
         ```
 
-    === "Status: 404 :red_circle:"
-        **Response type:** json
-        ```
-        {
-            "error": "The resource could not be found."
-        }
-        ```
+    --8<-- "includes/status.md"

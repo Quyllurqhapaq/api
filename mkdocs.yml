@@ -81,7 +81,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - macros
+  # - macros
   - minify:
       minify_html: true
       # minify_js: true
@@ -118,7 +118,6 @@ extra:
   manifest: manifest.webmanifest
   discord:
     api: https://api.zarena.ga/
-    invite: https://discord.com/oauth2/authorize?client_id=471701482874601472&scope=bot&permissions=8
     server: https://discord.gg/SwfNRrmr3p
     status: https://status.zarena.ga/
   generator: false
