@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.zarena.me/api/index.html</loc>
+         <lastmod>2022-01-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zarena.me/api/action.html</loc>
+         <lastmod>2022-01-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zarena.me/api/animals.html</loc>
+         <lastmod>2022-01-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zarena.me/api/coffee.html</loc>
+         <lastmod>2022-01-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zarena.me/api/pokemon.html</loc>
+         <lastmod>2022-01-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zarena.me/api/tea.html</loc>
+         <lastmod>2022-01-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
