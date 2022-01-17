@@ -10,7 +10,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Arctic fox**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/arctic-fox](https://api.zarena.ga/v1/animal/arctic-fox) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/arctic-fox](https://api.zarena.me/v1/animal/arctic-fox) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -18,7 +18,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/arctic_fox/arctic_fox_31.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/arctic_fox/arctic_fox_31.jpg",
             "fact": "Arctic foxes are well-known for their hunting style."
         }
         ```
@@ -30,7 +30,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Bear**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/bear](https://api.zarena.ga/v1/animal/bear) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/bear](https://api.zarena.me/v1/animal/bear) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -38,7 +38,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/bear/bear_33.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/bear/bear_33.jpg",
             "fact": "Bears have no real natural predators."
         }
         ```
@@ -50,7 +50,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Birb**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/birb](https://api.zarena.ga/v1/animal/birb) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/birb](https://api.zarena.me/v1/animal/birb) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -70,7 +70,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Cat**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/cat](https://api.zarena.ga/v1/animal/cat) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/cat](https://api.zarena.me/v1/animal/cat) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -78,7 +78,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/cat/cat_46.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/cat/cat_46.jpg",
             "fact": "Cats consider direct eye contact as threatening."
         }
         ```
@@ -90,7 +90,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Chipmunk**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/chipmunk](https://api.zarena.ga/v1/animal/chipmunk) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/chipmunk](https://api.zarena.me/v1/animal/chipmunk) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -98,7 +98,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/chipmunk/chipmunk_25.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/chipmunk/chipmunk_25.jpg",
             "fact": "You can easily differentiate a chipmunk from a squirrel."
         }
         ```
@@ -110,7 +110,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Dog**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/dog](https://api.zarena.ga/v1/animal/dog) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/dog](https://api.zarena.me/v1/animal/dog) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -118,7 +118,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/dog/dog_1.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/dog/dog_1.jpg",
             "fact": "Their sense of smell is at least 40x better than ours"
         }
         ```
@@ -130,7 +130,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Fox**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/fox](https://api.zarena.ga/v1/animal/fox) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/fox](https://api.zarena.me/v1/animal/fox) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -138,7 +138,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/fox/fox_1.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/fox/fox_1.jpg",
             "fact": " "
         }
         ```
@@ -150,7 +150,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Giraffe**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/giraffe](https://api.zarena.ga/v1/animal/giraffe) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/giraffe](https://api.zarena.me/v1/animal/giraffe) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -158,7 +158,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/giraffe/giraffe_5.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/giraffe/giraffe_5.jpg",
             "fact": "A giraffe’s legs stand 6 ft tall."
         }
         ```
@@ -170,7 +170,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Kangaroo**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/kangaroo](https://api.zarena.ga/v1/animal/kangaroo) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/kangaroo](https://api.zarena.me/v1/animal/kangaroo) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -178,7 +178,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/kangaroo/kangaroo_21.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/kangaroo/kangaroo_21.jpg",
             "fact": "Some of the kangaroo’s relatives include quokkas and rat kangaroos"
         }
         ```
@@ -190,7 +190,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Koala**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/koala](https://api.zarena.ga/v1/animal/koala) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/koala](https://api.zarena.me/v1/animal/koala) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -198,7 +198,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/koala/koala_33.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/koala/koala_33.jpg",
             "fact": "The koala is a marsupial mammal."
         }
         ```
@@ -210,7 +210,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Lion**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/lion](https://api.zarena.ga/v1/animal/lion) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/lion](https://api.zarena.me/v1/animal/lion) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -218,7 +218,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/lion/lion_48.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/lion/lion_48.jpg",
             "fact": "Lions also have an excellent sense of hearing."
         }
         ```
@@ -230,7 +230,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Panda**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/panda](https://api.zarena.ga/v1/animal/panda) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/panda](https://api.zarena.me/v1/animal/panda) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -238,7 +238,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/panda/panda_15.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/panda/panda_15.jpg",
             "fact": "Giant pandas have 42 teeth. Like humans, giant pandas have two sets of teeth in their lifetime."
         }
         ```
@@ -250,7 +250,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Penguin**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/penguin](https://api.zarena.ga/v1/animal/penguin) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/penguin](https://api.zarena.me/v1/animal/penguin) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -258,7 +258,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/penguin/penguin_30.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/penguin/penguin_30.jpg",
             "fact": "Penguins are considered to be very social creatures."
         }
         ```
@@ -278,7 +278,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/polar_bear/polar_bear_27.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/polar_bear/polar_bear_27.jpg",
             "fact": "A single seal could keep a polar bear full for 8 days."
         }
         ```
@@ -290,7 +290,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Rabbit**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/rabbit](https://api.zarena.ga/v1/animal/rabbit) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/rabbit](https://api.zarena.me/v1/animal/rabbit) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -298,7 +298,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/rabbit/rabbit_4.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/rabbit/rabbit_4.jpg",
             "fact": "Seven out of the thirteen wild rabbit species are cottontail."
         }
         ```
@@ -310,7 +310,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Raccoon**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/raccoon](https://api.zarena.ga/v1/animal/raccoon) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/raccoon](https://api.zarena.me/v1/animal/raccoon) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -318,7 +318,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/raccoon/raccoon_4.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/raccoon/raccoon_4.jpg",
             "fact": "They are mostly color blind."
         }
         ```
@@ -350,7 +350,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Tiger**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/tiger](https://api.zarena.ga/v1/animal/tiger) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/tiger](https://api.zarena.me/v1/animal/tiger) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -358,7 +358,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/tiger/tiger_30.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/tiger/tiger_30.jpg",
             "fact": "Tigers sleep a lot."
         }
         ```
@@ -370,7 +370,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Wolf**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/wolf](https://api.zarena.ga/v1/animal/wolf) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/wolf](https://api.zarena.me/v1/animal/wolf) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -378,7 +378,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/wolf/wolf_31.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/wolf/wolf_31.jpg",
             "fact": " "
         }
         ```
@@ -390,7 +390,7 @@ Get cute and wild animal pics and their facts.
 !!! example "**Zebra**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/animal/zebra](https://api.zarena.ga/v1/animal/zebra) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/animal/zebra](https://api.zarena.me/v1/animal/zebra) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -398,7 +398,7 @@ Get cute and wild animal pics and their facts.
         **Response type:** json
         ```
         {
-            "image_url": "https://cdn.zarena.ga/image/animals/zebra/zebra_49.jpg",
+            "image_url": "https://cdn.zarena.me/image/animals/zebra/zebra_49.jpg",
             "fact": "Zebras are kept in protected areas."
         }
         ```

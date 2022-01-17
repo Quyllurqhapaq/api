@@ -10,7 +10,7 @@ There's nothing as refreshing as a cup of tea.
 !!! example "**Tea**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/tea](https://api.zarena.ga/v1/tea) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/tea](https://api.zarena.me/v1/tea) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -18,7 +18,7 @@ There's nothing as refreshing as a cup of tea.
         **Response type:** json
         ```
         {
-            "url": "https://cdn.zarena.ga/image/tea/tea_1.jpg"
+            "url": "https://cdn.zarena.me/image/tea/tea_1.jpg"
         }
         ```
 

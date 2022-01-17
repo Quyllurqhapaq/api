@@ -10,7 +10,7 @@ Get Pokemon info and their stats upto generation 8!
 !!! example "**Pokemon**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/pokemon?id=1](https://api.zarena.ga/v1/pokemon?id=1) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/pokemon?id=1](https://api.zarena.me/v1/pokemon?id=1) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -90,7 +90,7 @@ Get Pokemon info and their stats upto generation 8!
 !!! example "**Pokemon**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/pokemon?name=bulbasaur](https://api.zarena.ga/v1/pokemon?name=bulbasaur) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/pokemon?name=bulbasaur](https://api.zarena.me/v1/pokemon?name=bulbasaur) <br>
     - **Method:** GET <br>
 
     ### **Response**

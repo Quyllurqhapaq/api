@@ -18,11 +18,11 @@ No authorization needed atm, all are open <3
 
 ## List of APIs
 
-- [Coffee API](https://docs.zarena.ga/api/coffee)
-- [Animals API](https://docs.zarena.ga/api/animals)
-- [Action API](https://docs.zarena.ga/api/action)
-- [Pokemon API](https://docs.zarena.ga/api/pokemon)
-- [Tea API](https://docs.zarena.ga/api/tea)
+- [Coffee API](https://docs.zarena.me/api/coffee)
+- [Animals API](https://docs.zarena.me/api/animals)
+- [Action API](https://docs.zarena.me/api/action)
+- [Pokemon API](https://docs.zarena.me/api/pokemon)
+- [Tea API](https://docs.zarena.me/api/tea)
 
 ## Endpoints
 

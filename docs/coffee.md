@@ -11,7 +11,7 @@ Get random coffee images.
 !!! example "**Coffee**"
 
     ### **Endpoint information**
-    - **Endpoint:** [https://api.zarena.ga/v1/coffee/random](https://api.zarena.ga/v1/coffee/random) <br>
+    - **Endpoint:** [https://api.zarena.me/v1/coffee/random](https://api.zarena.me/v1/coffee/random) <br>
     - **Method:** GET <br>
 
     ### **Response**
@@ -19,7 +19,7 @@ Get random coffee images.
         **Response type:** json
         ```
         {
-            "url": "https://cdn.zarena.ga/image/coffee/coffee_4194.jpg"
+            "url": "https://cdn.zarena.me/image/coffee/coffee_4194.jpg"
         }
         ```
 
